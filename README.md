@@ -4,6 +4,6 @@ Making sense of complex image data via classification and deep neural networks.
 
 ## About
 
-A "Deeplearning with Tensorflow" workbook by Packt publishing contiaining algorithms for deep learning.
+A "Deeplearning with Tensorflow" workbook by Packt publishing containing algorithms for deep learning.
 
 
